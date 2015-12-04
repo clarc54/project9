@@ -1,6 +1,6 @@
 //// Array practice #1.
 
-int[] a=  { 99, 44, 72, 15, -3, 177, 0, 9, 47, 9 };
+int[] a=  { random(int i = 0; i < many; i++) };
 int many=  a.length;
 float x=10, y=20;
 
@@ -13,9 +13,9 @@ float x=10, y=20;
 //}
 
 /*void reset(){
-  int[] a=  { 99, 44, 72, 15, -3, 177, 0, 9, 47, 9 };
-  int many=  a.length;
-  float x=10, y=20;
+int[] a=  { random(int i = 0; i < 100; i++) };
+int many=  a.length;
+float x=10, y=20;
 }
 */
 
@@ -43,3 +43,4 @@ text( "How to find the median?", x, y );
   if (key == 'q') exit();
   
 }
+*/
